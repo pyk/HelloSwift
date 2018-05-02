@@ -23,3 +23,8 @@ To run the test:
 To run the executable:
 
     swift run Hello
+
+There is a blog about using third-party
+module [here](https://evgenii.com/blog/distributing-your-library-with-swift-package-manager/).
+
+The documentation about Swift package is available [here](https://github.com/apple/swift-package-manager/tree/master/Documentation).
