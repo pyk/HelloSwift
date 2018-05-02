@@ -10,4 +10,16 @@ My swift:
 ## Tutorial
 Initialize new swift package:
 
-    swift package init
+    swift package init --type executable
+
+To build the package:
+
+    swift build
+
+To run the test:
+
+    swift test
+
+To run the executable:
+
+    swift run Hello
